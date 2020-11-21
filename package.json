@@ -1,0 +1,24 @@
+{
+  "name": "c18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "c18.js",
+  "dependencies": {
+    "cli-table3": "^0.6.0",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeSugiono/resolusi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeSugiono/resolusi/issues"
+  },
+  "homepage": "https://github.com/adeSugiono/resolusi#readme"
+}
