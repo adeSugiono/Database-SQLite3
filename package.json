@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adeSugiono/resolusi.git"
+    "url": "git+https://github.com/adeSugiono/Database-SQLite3.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adeSugiono/resolusi/issues"
+    "url": "https://github.com/adeSugiono/Database-SQLite3/issues"
   },
-  "homepage": "https://github.com/adeSugiono/resolusi#readme"
+  "homepage": "https://github.com/adeSugiono/Database-SQLite3#readme"
 }
